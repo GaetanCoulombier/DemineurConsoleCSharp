@@ -1,5 +1,16 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using DemineurConsoleCSharp.model;
 
-using DemineurConsoleCSharp;
+namespace DemineurConsoleCSharp;
 
-Console.WriteLine(Test.test());
+class Program
+{
+    static void Main(String[] args)
+    {
+        Game game = new Game(10);
+        game.fill();
+        Console.WriteLine(game.ToString());
+        //string userName = Console.ReadLine();
+        //Console.WriteLine(userName);
+
+    }
+}
