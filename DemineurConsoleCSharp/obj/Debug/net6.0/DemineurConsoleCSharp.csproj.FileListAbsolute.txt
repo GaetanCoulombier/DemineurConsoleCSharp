@@ -1,0 +1,15 @@
+C:\Users\gaeta\RiderProjects\DemineurConsoleCSharp\DemineurConsoleCSharp\bin\Debug\net6.0\DemineurConsoleCSharp.exe
+C:\Users\gaeta\RiderProjects\DemineurConsoleCSharp\DemineurConsoleCSharp\bin\Debug\net6.0\DemineurConsoleCSharp.deps.json
+C:\Users\gaeta\RiderProjects\DemineurConsoleCSharp\DemineurConsoleCSharp\bin\Debug\net6.0\DemineurConsoleCSharp.runtimeconfig.json
+C:\Users\gaeta\RiderProjects\DemineurConsoleCSharp\DemineurConsoleCSharp\bin\Debug\net6.0\DemineurConsoleCSharp.dll
+C:\Users\gaeta\RiderProjects\DemineurConsoleCSharp\DemineurConsoleCSharp\bin\Debug\net6.0\ref\DemineurConsoleCSharp.dll
+C:\Users\gaeta\RiderProjects\DemineurConsoleCSharp\DemineurConsoleCSharp\bin\Debug\net6.0\DemineurConsoleCSharp.pdb
+C:\Users\gaeta\RiderProjects\DemineurConsoleCSharp\DemineurConsoleCSharp\obj\Debug\net6.0\DemineurConsoleCSharp.csproj.AssemblyReference.cache
+C:\Users\gaeta\RiderProjects\DemineurConsoleCSharp\DemineurConsoleCSharp\obj\Debug\net6.0\DemineurConsoleCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaeta\RiderProjects\DemineurConsoleCSharp\DemineurConsoleCSharp\obj\Debug\net6.0\DemineurConsoleCSharp.AssemblyInfoInputs.cache
+C:\Users\gaeta\RiderProjects\DemineurConsoleCSharp\DemineurConsoleCSharp\obj\Debug\net6.0\DemineurConsoleCSharp.AssemblyInfo.cs
+C:\Users\gaeta\RiderProjects\DemineurConsoleCSharp\DemineurConsoleCSharp\obj\Debug\net6.0\DemineurConsoleCSharp.csproj.CoreCompileInputs.cache
+C:\Users\gaeta\RiderProjects\DemineurConsoleCSharp\DemineurConsoleCSharp\obj\Debug\net6.0\DemineurConsoleCSharp.dll
+C:\Users\gaeta\RiderProjects\DemineurConsoleCSharp\DemineurConsoleCSharp\obj\Debug\net6.0\ref\DemineurConsoleCSharp.dll
+C:\Users\gaeta\RiderProjects\DemineurConsoleCSharp\DemineurConsoleCSharp\obj\Debug\net6.0\DemineurConsoleCSharp.pdb
+C:\Users\gaeta\RiderProjects\DemineurConsoleCSharp\DemineurConsoleCSharp\obj\Debug\net6.0\DemineurConsoleCSharp.genruntimeconfig.cache
