@@ -47,10 +47,10 @@ public class Filler
         {
             for (j = 0; j < game.SIZE; j++)
             {
-                Case case_ = game.getCase(i,j);
+                var case_ = game.getCase(i,j);
                 if (case_.getNumber() == 0)
                 {
-                    int numberBombeAround = getNumberBombeAround(i,j);
+                    var numberBombeAround = getNumberBombeAround(i,j);
                     if (numberBombeAround != 0)
                     {
                         game.setCase(i,j,new Case(numberBombeAround));
@@ -62,34 +62,16 @@ public class Filler
     
     private int getNumberBombeAround(int x,int y)
     {
-        int number = 0;
-
-        for (int i = -1; i <= 1; i--)
+        var number = 0;
+        for (var i = -1; i <= 1; i++)
         {
-            for (int j = -1; j <= 1; j--)
+            for (var j = -1; j <= 1; j++)
             {
-                Case case_ = game.getCase(x+i,y+j);
-                if (case_ != null && case_.getNumber() == -1)
+                var case_ = game.getCase(x+i,y+j);
+                if (case_.getNumber() != -2 && case_.getNumber() == -1)
                     number++;
             }
         }
-        
-        if (game.getCase(x,y+1).getNumber() == -1)
-            number++;
-        if (game.getCase(x+1,y+1).getNumber() == -1)
-            number++;
-        if (game.getCase(x+1,y).getNumber() == -1)
-            number++;
-        if (game.getCase(x+1,y-1).getNumber() == -1)
-            number++;
-        if (game.getCase(x,y-1).getNumber() == -1)
-            number++;
-        if (game.getCase(x-1,y-1).getNumber() == -1)
-            number++;
-        if (game.getCase(x-1,y).getNumber() == -1)
-            number++;
-        if (game.getCase(x-1,y+1).getNumber() == -1)
-            number++;
         return number;
     }
 }

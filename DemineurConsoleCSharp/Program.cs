@@ -6,11 +6,7 @@ class Program
 {
     static void Main(String[] args)
     {
-        Game game = new Game(10);
-        game.fill();
-        Console.WriteLine(game.ToString());
-        //string userName = Console.ReadLine();
-        //Console.WriteLine(userName);
-
+        Game game = new Game(10,10);
+        game.startConsole();
     }
 }
